@@ -1,4 +1,4 @@
-# [Project Russia](https://yourniceshot.github.io/russia-project/)
+# [Project "Russia"](https://yourniceshot.github.io/russia-project/)
 ## by Anastasia Mednikova
 ver 0.1
 ## Description
