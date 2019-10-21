@@ -1,0 +1,13 @@
+@import url('./video-director/video__director.css');
+@import url('./video-duration/video__duration.css');
+@import url('./video-name/video__name.css');
+@import url('./video-play-icon/video__play-icon.css');
+@import url('./video__mask/video_mask.css');
+@import url('./video_bg/_bg.css');
+
+.video__item {
+    width: 583px;
+    height: 323px;
+    position: relative;
+    margin-right: 18px;
+}

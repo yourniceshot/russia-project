@@ -1,0 +1,8 @@
+@import url('./__card/__card.css');
+
+.cards {
+    width: 1184px;
+    height: 330px;
+    display: flex;
+    justify-content: space-between;
+}

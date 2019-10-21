@@ -1,0 +1,9 @@
+@import url('./card-text/card-text.css');
+@import url('./card-title/card-title.css');
+@import url('./card-image/card-image.css');
+
+.card {
+    width: 284px;
+    height: 330px;
+    position: relative;
+}

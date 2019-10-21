@@ -1,0 +1,12 @@
+.card__title {
+    width: 248px;
+    height: 55px;
+    font-size: 27px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-top: 0;
+    position: absolute;
+    top: 30px;
+    left: 18px;
+    z-index: 3;
+}

@@ -1,0 +1,8 @@
+@import url('./item/item.css');
+
+.comments-container {
+    width: 1184px;
+    height: 283px;
+    display: flex;
+    justify-content: space-between;
+}

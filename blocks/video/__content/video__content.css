@@ -1,0 +1,8 @@
+@import url('./__item/video__item.css');
+
+.video-content {
+    width: 1184px;
+    height: 323px;
+    margin-top: 72px;
+    display: flex;
+}

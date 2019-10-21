@@ -1,0 +1,20 @@
+.comments__item_author {
+    width: 382px;
+    height: 13px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 22px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.comments__item:first-child .comments__item_author {
+    top: 200px;
+}
+
+.comments__item:last-child .comments__item_author {
+    top: 223px;
+}

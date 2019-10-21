@@ -1,0 +1,17 @@
+.video__mask {
+    width: 583px;
+    height: 323px;
+    position: absolute; 
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    background-color: black;
+    opacity: 0;
+    z-index: 3;
+    cursor: pointer;
+}
+
+.video__mask:hover {
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}

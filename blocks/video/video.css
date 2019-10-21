@@ -1,0 +1,10 @@
+@import url('./__title/video__title.css');
+@import url('./__subtitle/video__subtitle.css');
+@import url('./__content/video__content.css');
+
+.video {
+    width: 1184px;
+    margin: 0 auto;
+    margin-bottom: 102px;
+    margin-top: 29px;
+}

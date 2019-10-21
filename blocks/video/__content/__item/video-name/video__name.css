@@ -1,0 +1,14 @@
+.video__name {
+    width: 322px;
+    height: 73px;
+    font-size: 36px;
+    line-height: 39px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 0;
+    position: absolute;
+    left: 30px;
+    bottom: 61px;
+    z-index: 3;
+    margin-top: 0;
+}

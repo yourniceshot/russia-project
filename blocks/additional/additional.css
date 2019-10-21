@@ -1,0 +1,9 @@
+@import url('./additional__title/additional__title.css');
+@import url('./additional__subtitle/additional.subtitle.css');
+@import url('./additional__cards/additional-cards.css');
+
+.additional {
+    width: 1184px;
+    margin: 0 auto;
+    margin-bottom: 102px;
+}

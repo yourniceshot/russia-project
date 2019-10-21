@@ -1,0 +1,16 @@
+.cover__mask {
+    width: 1184px;
+    height: 594px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.cover__mask:hover {
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}

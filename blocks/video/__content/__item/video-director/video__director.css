@@ -1,0 +1,13 @@
+.video__director {
+    width: 200px;
+    height: 13px;
+    font-size: 14px;
+    line-height: 15px;
+    color: #FFFFFF;
+    font-weight: normal;
+    margin-bottom: 0;
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    z-index: 3;
+}

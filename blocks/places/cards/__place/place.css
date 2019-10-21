@@ -1,0 +1,22 @@
+@import url('./_image/_image.css');
+@import url('./_paragraph/_paragraph.css');
+@import url('./_title/_title.css');
+@import url('./_url/_url.css');
+@import url('./_website/_website.css');
+
+.place {
+    width: 984px;
+    height: 589px;
+    margin: 0 auto;
+    position: relative;
+    margin-bottom: 72px;
+}
+
+.place:first-child {
+    height: 653px;
+}
+
+.place:nth-child(4) {
+    height: 653px;
+}
+

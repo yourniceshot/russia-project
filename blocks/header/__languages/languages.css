@@ -1,0 +1,7 @@
+@import url('./__lang/header__lang.css');
+@import url('./__lang_active/header__lang_active.css');
+
+.header__languages {
+    width: 80px;
+    padding-top: 17px;
+}

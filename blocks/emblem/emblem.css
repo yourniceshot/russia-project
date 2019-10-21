@@ -1,0 +1,10 @@
+@import url('./__title/emblem__title.css');
+@import url('./container/container.css');
+
+.emblem {
+    width: 1184px;
+    margin: 0 auto;
+    margin-bottom: 85px;
+    display: flex;
+    flex-direction: column;
+}

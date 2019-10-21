@@ -1,0 +1,10 @@
+@import url('../__content-row/__content-row_text/intro__content-row_text.css');
+@import url('../__content-row/__content-row_author/intro__content-row_author.css');
+
+.intro__content-row {
+    display: flex; 
+    justify-content: space-between;
+    width: 984px;
+    height: 154px;
+    margin-bottom: 35px;
+}

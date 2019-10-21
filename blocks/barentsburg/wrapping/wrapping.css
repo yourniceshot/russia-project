@@ -1,0 +1,7 @@
+@import url('./__link/barentsburg_link.css');
+@import url('./__url/barentsburg__url.css');
+
+.barentsburg-wrapping {
+    width: 282px;
+    margin-left: 120px;
+}

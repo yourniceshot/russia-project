@@ -1,0 +1,9 @@
+.lead__image {
+    background-image: url(../__image/kalegin.png);
+    background-repeat: no-repeat;
+    width: 984px;
+    height: 555px;
+    margin: auto;
+    margin-top: 78px;
+    z-index: 1;
+}

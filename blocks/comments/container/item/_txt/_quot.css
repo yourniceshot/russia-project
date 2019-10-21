@@ -1,0 +1,14 @@
+.comments__item_quot {
+    width: 382px;
+    position: absolute;
+    top: 139px;
+    margin-top: 0;
+    font-size: 14px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.comments__item:first-child .comments__item_quot {
+    width: 376px;
+}
+

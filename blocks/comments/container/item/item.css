@@ -1,0 +1,9 @@
+@import url('./_author/_author.css');
+@import url('./_img/_picture.css');
+@import url('./_txt/_quot.css');
+
+.comments__item {
+    width: 382px;
+    height: 283px;
+    position: relative;
+}

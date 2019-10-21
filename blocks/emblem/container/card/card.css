@@ -1,0 +1,8 @@
+@import url('./img/emblem__picture.css');
+@import url('./text/emblem__text.css');
+
+.emblem__card {
+    width: 208px;
+    display: flex;
+    flex-direction: column;
+}

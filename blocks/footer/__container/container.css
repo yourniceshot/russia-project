@@ -1,0 +1,13 @@
+@import url('./_calendar/calendar.css');
+@import url('./_maps/maps.css');
+@import url('./_rasp/raspisanie.css');
+@import url('./_travel/travel.css');
+@import url('./_weather/weather.css');
+
+.footer__links-container {
+    width: 664px;
+    height: 23px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+}

@@ -1,0 +1,16 @@
+.card__text {
+    width: 248px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    font-weight: normal;
+    position: absolute;
+    left: 18px;
+    bottom: 30px;
+    z-index: 3;
+}
+
+.card:first-child .card__text {
+    top: 224px;
+}

@@ -1,0 +1,9 @@
+.lead__image_curve {
+    width: 937px;
+    height: 226px;
+    background-image: url(../__image_curve/Group4.svg);
+    z-index: 2;
+    position: absolute;
+    top: 600px;
+    left: 32px;
+}
